@@ -1,0 +1,1 @@
+#### This is a simple "Album Project" built using HTML & CSS. It showcases images in a structured layout, making it easy to view.
